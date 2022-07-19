@@ -587,7 +587,7 @@ svg:hover{
 }
 
 
-  /* //.images */
+  /* images */
   
   .port-text {
     padding: 2rem 0;
@@ -631,34 +631,7 @@ svg:hover{
     color: var(--color-white);
     margin-bottom: 1.5rem;
   }
-  /* .portfolios .images-item .hover-items .icons {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  } */
-  /* .portfolios .images-item .hover-items .icons .icon {
-    background-color: var(--color-primary);
-    border-radius: 50%;
-    width: 50px;
-    height: 50px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin: 0 1rem;
-    cursor: pointer;
-    transition: all 0.4s ease-in-out;
-  } */
-  /* .portfolios .images-item .hover-items .icons .icon i {
-    font-size: 1.5rem;
-    color: var(--color-white);
-    margin: 0 1rem;
-  } */
-  /* .portfolios .images-item .hover-items .icons .icon:hover {
-    background-color: var(--color-white);
-  } */
-  /* .portfolios .images-item .hover-items .icons .icon:hover i {
-    color: var(--color-primary);
-  } */
+  
   
   .images-item:hover .hover-items {
     opacity: 0.8;
@@ -667,7 +640,7 @@ svg:hover{
   }
 
 
-  /* ///bolgs */
+  /* bolgs */
 
 
   .videos {
@@ -1211,7 +1184,7 @@ svg:hover{
   margin-bottom: 58px;
 }
 
-   /* /aniamtion  */
+   /* aniamtion  */
 
 
   @media screen and (max-width: 1432px) {
