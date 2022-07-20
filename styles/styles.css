@@ -119,7 +119,7 @@ svg:hover{
 
 @keyframes fade-in{
     25%{
-        background-image: url('img/g2.jpg');
+        background-image: url('/img/g2.jpg');
     }
     50%{
         background-image: url('img/g4.jpg');
