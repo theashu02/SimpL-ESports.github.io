@@ -101,7 +101,7 @@ svg {
     background-size: 0.12em 100%;
     font: 16em/1 Arial;
     /* margin-right: 80%; */
-    background-image: url('img/g1.jpg');
+    background-image: url('https://wall.alphacoders.com/by_sub_category.php?id=173953&name=MSI+Wallpapers&filter=4K+Ultra+HD');
     background-repeat: no-repeat;
     background-position: center;
     position: block;
@@ -119,16 +119,16 @@ svg:hover{
 
 @keyframes fade-in{
     25%{
-        background-image: url('img/g1.jpg');
+        background-image: url('https://w0.peakpx.com/wallpaper/704/827/HD-wallpaper-pubg-mummy-suit-pubg-pubg-mobile-shadow-king-mummy-set-pubg.jpg');
     }
     50%{
-        background-image: url('img/g4.jpg');
+        background-image: url('https://w0.peakpx.com/wallpaper/610/689/HD-wallpaper-pubg-vampire-set-blood-rain.jpg');
     }
     75%{
-        background-image: url('img/darkback.jpg');
+        background-image: url('https://asset.msi.com/resize/picture/global/wallpaper/wallpaper_165689732105e34c328feb346f105d452c5c5b7387.jpeg/550.png');
     }
     100%{
-        background-image: url('img/g5.png');
+        background-image: url('https://wallpaperaccess.com/msi-4k');
     }
 }
 
